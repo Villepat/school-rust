@@ -1,9 +1,0 @@
-/Users/ville-veikko.patjas/Documents/piscine-rust/events/target/debug/deps/colored-9ae973c4339ced47.rmeta: /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
-
-/Users/ville-veikko.patjas/Documents/piscine-rust/events/target/debug/deps/colored-9ae973c4339ced47.d: /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
-
-/Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs:
-/Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs:
-/Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs:
-/Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs:
-/Users/ville-veikko.patjas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs:

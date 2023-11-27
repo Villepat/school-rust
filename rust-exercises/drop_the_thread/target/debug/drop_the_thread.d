@@ -1,0 +1,1 @@
+/Users/ville-veikko.patjas/Documents/piscine-rust/drop_the_thread/target/debug/drop_the_thread: /Users/ville-veikko.patjas/Documents/piscine-rust/drop_the_thread/src/lib.rs /Users/ville-veikko.patjas/Documents/piscine-rust/drop_the_thread/src/main.rs

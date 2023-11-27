@@ -1,0 +1,1 @@
+/Users/ville-veikko.patjas/Documents/piscine-rust/get_products/target/debug/get_products: /Users/ville-veikko.patjas/Documents/piscine-rust/get_products/src/lib.rs /Users/ville-veikko.patjas/Documents/piscine-rust/get_products/src/main.rs

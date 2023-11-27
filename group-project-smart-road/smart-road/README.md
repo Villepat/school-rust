@@ -66,16 +66,13 @@ L: show the car boundaries and id. also the "radar"<br>
 
 ## Statistics
 
-The program should be able to generate the following statistics:
+The program is able to generate the following statistics:
 
 Max/Min number of vehicles that passed the intersection.<br>
 Max/Min velocity of all vehicles.<br>
 Max/Min time taken to pass the intersection.<br>
 Close calls, or violations of the safety distance.<br><br>
-Bonus Features (Optional)<br>
-Create your own assets for animation.<br>
-Add more statistics.<br>
-Consider acceleration and deceleration in the physics.<br>
+
 
 ## Learning Outcomes
 
@@ -90,90 +87,6 @@ Event handling<br>
 
 Oskar<br>
 Santeri<br>
-Ville<br>
+Ville-Veikko<br>
 
-## auto koordinatit
 
-VASEN tie vasemmalle menevä auto:
-
-car_x = Some(0.0);
-car_y = Some(508.0);
-x_target = 508.0;
-y_target = 0.0;
-
-VASEN tie oikealle menevä auto:
-
-car_x = Some(0.0);
-car_y = Some(614.0);
-x_target = 344.0;
-y_target = 1000.0;
-
-VASEN tie suoraan menevä auto:
-
-car_x = Some(0.0);
-car_y = Some(564.0);
-x_target = 1000.0;
-y_target = 564.0;
-
-OIKEA tie suoraan menevä auto:
-
-car_x = Some(1000.0);
-car_y = Some(394.0);
-x_target = 0.0;
-y_target = 394.0;
-
-OIKEA tie vasemmalle menevä auto:
-
-car_x = Some(1000.0);
-car_y = Some(450.0);
-x_target = 450.0;
-y_target = 1000.0;
-
-OIKEA tie oikealle menevä auto:
-
-car_x = Some(1000.0);
-car_y = Some(344.0);
-x_target = 614.0;
-y_target = 0.0;
-
-ALA tie suoraan menevä auto:
-
-car_x = Some(564.0);
-car_y = Some(1000.0);
-x_target = 564.0;
-y_target = 0.0;
-
-ALA tie vasemmalle menevä auto:
-
-car_x = Some(508.0);
-car_y = Some(1000.0);
-x_target = 0.0;
-y_target = 450.0;
-
-ALA tie oikealle menevä auto:
-
-car_x = Some(614.0);
-car_y = Some(1000.0);
-x_target = 1000.0;
-y_target = 613.0;
-
-YLÄ tie suoraan menevä auto:
-
-car_x = Some(395.0);
-car_y = Some(0.0);
-x_target = 395.0;
-y_target = 1000.0;
-
-YLÄ tie oikealle menevä auto:
-
-car_x = Some(345.0);
-car_y = Some(0.0);
-x_target = 0.0;
-y_target = 342.0;
-
-YLÄ tie vasemmalle menevä auto:
-
-car_x = Some(450.0);
-car_y = Some(0.0);
-x_target = 1000.0;
-y_target = 510.0;
